@@ -1,6 +1,6 @@
 # react-native-bitabiz-add-event-form
 
-test
+The POC of modal for add new event component to be used in cross-platform, based on pure React-Native component.
 
 ## Installation
 
